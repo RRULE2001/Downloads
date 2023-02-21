@@ -20,6 +20,7 @@ This section is for various tools used when creating schematics and pcb layouts.
 - [VSCode C/C++](https://code.visualstudio.com/docs/languages/cpp)
 - [VSCode GCC](https://www.msys2.org/)
 - [Diagrams.net](https://app.diagrams.net/)
+- [Xilinx](https://www.xilinx.com/support/download.html)
 
 ## Battery Testing
 This folder is for setting up wiring in for different things like battery testing.
