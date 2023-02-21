@@ -16,6 +16,9 @@ This section is for various tools used when creating schematics and pcb layouts.
 - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
 - [Putty](https://www.putty.org/)
 - [Teraterm](https://ttssh2.osdn.jp/index.html.en)
+- [VSCode](https://code.visualstudio.com/download)
+- [VSCode C/C++](https://code.visualstudio.com/docs/languages/cpp)
+- [VSCode GCC](https://www.msys2.org/)
 
 ## Battery Testing
 This folder is for setting up wiring in for different things like battery testing.
